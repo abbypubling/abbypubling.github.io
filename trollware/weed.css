@@ -8,6 +8,8 @@ li{
 
 * {
   box-sizing: border-box;
+  font-family: "Lucida Console";
+  color:#008F1F;
 }
 
 .column {
