@@ -1,0 +1,37 @@
+p {
+	font-size: 50px;
+	text-align: center;
+	color: white;
+	font-family: sans-serif;
+}
+
+.center2 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.warning {
+	font-size:40px;
+}
+
+.footer { 
+    position: fixed;     
+    text-align: center;    
+    bottom: 0px; 
+    width: 100%;
+	color: 515250;
+}  
+
+.pornowoman {
+	position: fixed;
+	bottom: 0px;
+	right: 0px;
+}
+
+.ad {
+    position: absolute;
+    left:0;
+    top:0;
+}
