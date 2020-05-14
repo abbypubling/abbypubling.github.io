@@ -1,0 +1,27 @@
+hr{
+border: 10px solid;
+}
+
+p{
+color:white;
+font-family:Verdana;
+}
+
+a:link {
+  color: orange;
+}
+
+/* visited link */
+a:visited {
+  color: purple;
+}
+
+/* mouse over link */
+a:hover {
+  color: red;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}
